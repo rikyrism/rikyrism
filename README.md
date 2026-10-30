@@ -52,11 +52,11 @@ DevOps Engineer focused on building and operating cloud-native infrastructure. I
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikyrism&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rikyrism&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rikyrism&theme=github_dark" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikyrism&theme=github-dark-blue&hide_border=true&background=0d1117" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rikyrism&theme=github_dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikyrism&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </p>
 
 <p align="center">
